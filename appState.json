@@ -73,7 +73,7 @@
       }
     },
     "customTemplate": {
-      "syntax": "YAML",
+      "syntax": "JSON",
       "overrideDefault": false,
       "dialect": null,
       "definitions": null
@@ -91,7 +91,7 @@
     "platform": "GCP",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1591957555503,
+    "lastSave": 1591957602388,
     "sigmaVersion": "1.3.27"
   },
   "VCS_STATE": {
